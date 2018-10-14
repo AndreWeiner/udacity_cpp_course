@@ -11,6 +11,11 @@ The programs are all very simple. To compile the source file *hello.cpp* with th
 
 ## Contents and status
 ### Basics
+* HelloWorld
+* Namespace
+* PrintVariables
+* FormattingOutput
+* FileIO
 
 ### Arithmetic operations
 
