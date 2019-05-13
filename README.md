@@ -17,6 +17,7 @@ The programs are all very simple. To compile the source file *hello.cpp* with th
 * FormattingOutput
 * FileIO
 * HeaderFiles
+* UserInput
 
 ### Arithmetic operations
 
