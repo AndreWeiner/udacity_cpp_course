@@ -18,6 +18,8 @@ The programs are all very simple. To compile the source file *hello.cpp* with th
 * FileIO
 * HeaderFiles
 * UserInput
+* CinAndStrings
+* StringStream
 
 ### Arithmetic operations
 
