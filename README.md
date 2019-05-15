@@ -22,6 +22,8 @@ The programs are all very simple. To compile the source file *hello.cpp* with th
 * StringStream
 
 ### Arithmetic operations
+* Volumes
+* PreAndPostFix
 
 ### Control flow
 
